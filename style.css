@@ -1,0 +1,178 @@
+#header{
+    position: fixed;
+    left: 300px;
+    color: rgb(0,0,255);
+    font: 50px arial, sans-serif;
+}
+
+p{
+    position: fixed;
+    left: 300px;
+    top: 500px;
+    font: 14px arial, sans-serif;
+}
+
+#maar{
+    position: fixed;
+    left: 680px;
+    color: rgb(0,0,255);
+    font: 50px arial, sans-serif;
+}
+
+#dora{
+    position: fixed;
+    left: 700px;
+    top: 100px;
+}
+
+body{
+    background: rgb(200,100,0);
+}
+
+.one{
+    position: fixed;
+    left: 300px;
+    top: 100px;
+}
+
+.two{
+    position: fixed;
+    left: 382px;
+    top: 100px;
+}
+
+.three{
+    position: fixed;
+    left: 462px;
+    top: 100px;
+}
+
+.four{
+    position: fixed;
+    left: 300px;
+    top: 150px;
+}
+
+.five{
+    position: fixed;
+    left: 380px;
+    top: 150px;
+}
+
+.six{
+    position: fixed;
+    left: 462px;
+    top: 150px;
+}
+
+.seven{
+    position: fixed;
+    left: 300px;
+    top: 200px;
+}
+
+.eight{
+    position: fixed;
+    left: 382px;
+    top: 200px;
+}
+
+.nine{
+    position: fixed;
+    left: 462px;
+    top: 200px;
+}
+
+.ten{
+    position: fixed;
+    left: 300px;
+    top: 250px;
+}
+
+.eleven{
+    position: fixed;
+    left: 382px;
+    top: 250px;
+}
+
+.twelve{
+    position: fixed;
+    left: 462px;
+    top: 250px;
+}
+
+.thirteen{
+    position: fixed;
+    left: 300px;
+    top: 300px;
+}
+
+.fourteen{
+    position: fixed;
+    left: 382px;
+    top: 300px;
+}
+
+.fifteen{
+    position: fixed;
+    left: 462px;
+    top: 300px;
+}
+
+.sixteen{
+    position: fixed;
+    left: 300px;
+    top: 350px;
+}
+
+.seventeen{
+    position: fixed;
+    left: 382px;
+    top: 350px;
+}
+
+.eighteen{
+    position: fixed;
+    left: 462px;
+    top: 350px;
+}
+
+.nineteen{
+    position: fixed;
+    left: 300px;
+    top: 400px;
+}
+
+.twenty{
+    position: fixed;
+    left: 382px;
+    top: 400px;
+}
+
+.twenty-one{
+    position: fixed;
+    left: 462px;
+    top: 400px;
+}
+
+.twenty-two{
+    position: fixed;
+    left: 300px;
+    top: 450px;
+}
+
+.twenty-three{
+    position: fixed;
+    left: 382px;
+    top: 450px;
+}
+
+.twenty-four{
+    position: fixed;
+    left: 462px;
+    top: 450px;
+}
+
+.disabled{
+    display:none;
+}
